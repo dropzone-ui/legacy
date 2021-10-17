@@ -3,9 +3,18 @@
 <p align="center">
 <img align="center" with="128px" height="128px" src="https://user-images.githubusercontent.com/43678736/132112022-0ca409ae-cca2-43c8-be89-110376260a3f.png" alt="dropone-ui-logo">
 
-<h1 align="center">  Dropzone-UI </h1>
+<h1 align="center"> 
+ dropzone-ui
+ 
+ `has digievolved to` 
+
+[@dropzone-ui/react](https://github.com/dropzone-ui/react) :milky_way:
+
+</h1>
 
 </p>
+
+
 
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/dropzone-ui/react/blob/HEAD/LICENSE)
 [![npm latest package](https://img.shields.io/npm/v/@dropzone-ui/react.svg?logo=npm&logoColor=fff&label=NPM+package&color=limegreen)](https://www.npmjs.com/package/@dropzone-ui/react)
