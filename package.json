@@ -1,6 +1,6 @@
 {
   "name": "dropzone-ui",
-  "version": "2.1.1",
+  "version": "3.2.0",
   "description": "Elegant React Library Component for drag’n’drop files. Simple to use with little code. Material design guidelines considered. Multilanguage support.",
   "main": "./build/index.js",
   "module": "./build/index.es.js",
@@ -40,10 +40,7 @@
   },
   "homepage": "https://github.com/dropzone-ui/legacy#readme",
   "dependencies": {
-    "@dropzone-ui/react": "^3.0.0",
-    "@dynamicss/dynamicss": "^2.0.3",
-    "@unlimited-react-components/kernel": "^1.0.2",
-    "@unlimited-react-components/material-button": "^1.2.5"
+    "@dropzone-ui/react": "^3.2.0"
   },
   "peerDependencies": {
     "axios": "^0.21.4",
