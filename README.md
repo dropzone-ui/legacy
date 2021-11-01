@@ -66,9 +66,7 @@ On `Drag`, `Drop`, `Upload` and ful screen preview. (also changing view mode fro
 </p>
 
 Did you like the project? Please, don't forget to give us a :star: star on :octocat: [github](https://github.com/dropzone-ui/dropzone-ui) :D 
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/dropzone-ui/react" data-color-scheme="no-preference: dark_high_contrast; light: dark_dimmed; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star dropzone-ui/react on GitHub">Star</a>
+ ![GitHub Repo stars](https://img.shields.io/github/stars/dropzone-ui/react?label=Star&style=social)
 
 <p align="center">
 <img align="center"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5wxk14o6zhloz2z3zypy.png" alt="dropone-ui-logo">
