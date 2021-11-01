@@ -4,11 +4,10 @@
 <img align="center" with="128px" height="128px" src="https://user-images.githubusercontent.com/43678736/132112022-0ca409ae-cca2-43c8-be89-110376260a3f.png" alt="dropone-ui-logo">
 
 <h1 align="center"> 
- dropzone-ui
- 
- `has digievolved to` 
 
-[@dropzone-ui/react](https://www.npmjs.com/package/@dropzone-ui/react) :milky_way:
+ dropzone-ui `has mega-digievolved to` 
+ 
+ [@dropzone-ui/react](https://www.npmjs.com/package/@dropzone-ui/react) :milky_way:
 
 </h1>
 
@@ -34,12 +33,13 @@
 This package wraps all components of [@dropzone-ui/react](https://www.npmjs.com/package/@dropzone-ui/react). In a nutshell, installing this package you are installing @dropzone-ui/react as well through dependency tree.
 ## QuickStart
 
-- :books:[\<Full Documentation\>](https://www.npmjs.com/package/@dropzone-ui/react#dropzone-ui-react-components-api)
+- :books: [\<Full Documentation\>](https://www.npmjs.com/package/@dropzone-ui/react#dropzone-ui-react-components-api)
 
 - :earth_americas: [\<Localization\>](https://www.npmjs.com/package/@dropzone-ui/react#localization)
 
-- |:performing_arts: [\<Examples\>](https://www.npmjs.com/package/@dropzone-ui/react#Usage-and-examples)
+- :performing_arts: [\<Examples and use cases\>](https://www.npmjs.com/package/@dropzone-ui/react#Usage-and-examples)
 
+- :computer: [\<Server side implementation/>](https://www.npmjs.com/package/@dropzone-ui/react#uploading)
 ## Installation
 
 dropzone-ui is available as an [npm package](https://www.npmjs.com/package/dropzone-ui).
@@ -59,15 +59,15 @@ yarn add dropzone-ui axios
 
 On `Drag`, `Drop`, `Upload` and ful screen preview. (also changing view mode from `grid` to `list`).
 
-Did you like the project? Don't forget to give us a :star: star on :octocat: [github](https://github.com/dropzone-ui/dropzone-ui) :D
-
 <p align="center">
-<img align="center" width="35%" src="https://user-images.githubusercontent.com/43678736/132642335-dc7e7ceb-ae86-4f81-8625-4ee28dc5f593.png" alt="dropone-ui-logo"><img align="center" width="35%" src="https://user-images.githubusercontent.com/43678736/132642336-e295d84d-d950-43b2-b9fc-0529b4ecfe46.png" alt="dropone-ui-logo"><img align="center" width="35%" src="https://user-images.githubusercontent.com/43678736/132642339-2cd996a3-7754-46c9-89ed-56291972154f.png" alt="dropone-ui-logo"><img align="center" width="35%" src="https://user-images.githubusercontent.com/43678736/132642341-b1eb2bfe-8134-4cdf-a808-62b14058b4c1.png" alt="dropone-ui-logo">
+<img align="center"  src="https://user-images.githubusercontent.com/43678736/139614260-602b512c-cf78-48fe-ae57-1057e7ec8135.gif" alt="dropone-ui-logo">
 
 </p>
 
+Did you like the project? Don't forget to give us a :star: star on :octocat: [github](https://github.com/dropzone-ui/dropzone-ui) :D
+
 <p align="center">
-<img align="center" width="70%" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5wxk14o6zhloz2z3zypy.png" alt="dropone-ui-logo">
+<img align="center"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5wxk14o6zhloz2z3zypy.png" alt="dropone-ui-logo">
 </p>
 
 
