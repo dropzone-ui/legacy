@@ -44,7 +44,7 @@ This package wraps all components of [@dropzone-ui/react](https://www.npmjs.com/
 
 dropzone-ui is available as an [npm package](https://www.npmjs.com/package/dropzone-ui).
 
-For uploading files, peer dependency [axios](https://www.npmjs.com/package/axios) must be installed in conjuction with `dropzone-ui`.
+For uploading files, peer dependency [axios](https://www.npmjs.com/package/axios) must be installed together with `dropzone-ui`.
 
 ```sh
 // with npm
