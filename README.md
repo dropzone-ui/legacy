@@ -67,7 +67,7 @@ On `Drag`, `Drop`, `Upload` and ful screen preview. (also changing view mode fro
 </p>
 
 Did you like the project? Please, don't forget to give us a :star: star on :octocat: [github](https://github.com/dropzone-ui/dropzone-ui) :D 
- ![GitHub Repo stars](https://img.shields.io/github/stars/dropzone-ui/react?label=Star&style=social)
+[![GitHub Repo stars](https://img.shields.io/github/stars/dropzone-ui/react?label=Star&style=social)](https://github.com/dropzone-ui/react)
 
 <p align="center">
 <img align="center"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5wxk14o6zhloz2z3zypy.png" alt="dropone-ui-logo">
