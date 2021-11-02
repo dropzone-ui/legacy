@@ -1,15 +1,13 @@
-:rocket: [Spanish](./README_ES.md)
+:rocket: [Spanish](./README_ES.md)  
 
 <p align="center">
 <img align="center" with="128px" height="128px" src="https://user-images.githubusercontent.com/43678736/132112022-0ca409ae-cca2-43c8-be89-110376260a3f.png" alt="dropone-ui-logo">
 
-<h1 align="center">
+<h1 align="center">dropzone-ui  </h1> 
 
 dropzone-ui `has mega-digievolved to`
 
-[@dropzone-ui/react](https://www.npmjs.com/package/@dropzone-ui/react) :milky_way:
-
-</h1>
+[@dropzone-ui/react](https://www.npmjs.com/package/@dropzone-ui/react)  :milky_way:
 
 </p>
 
@@ -25,10 +23,13 @@ dropzone-ui `has mega-digievolved to`
 [![dependencies Status](https://status.david-dm.org/gh/dropzone-ui/react.svg)](https://david-dm.org/dropzone-ui/react)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/dropzone-ui/react.svg)](http://isitmaintained.com/project/dropzone-ui/react)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+![GitHub Repo stars](https://img.shields.io/github/stars/dropzone-ui/react?label=Star&style=social)
 
 ## Important
 
-This package wraps all components of [@dropzone-ui/react](https://www.npmjs.com/package/@dropzone-ui/react). In a nutshell, installing this package you are installing @dropzone-ui/react as well through dependency tree.
+This package wraps all components and types of [@dropzone-ui/react](https://www.npmjs.com/package/@dropzone-ui/react). In other words, installing this package will install @dropzone-ui/react as well through dependency tree. 
+
+So, consider installing [@dropzone-ui/react](https://www.npmjs.com/package/@dropzone-ui/react) directly.
 
 ## QuickStart
 
