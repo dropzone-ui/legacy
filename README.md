@@ -23,7 +23,7 @@ dropzone-ui `has mega-digievolved to`
 [![dependencies Status](https://status.david-dm.org/gh/dropzone-ui/react.svg)](https://david-dm.org/dropzone-ui/react)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/dropzone-ui/react.svg)](http://isitmaintained.com/project/dropzone-ui/react)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-![GitHub Repo stars](https://img.shields.io/github/stars/dropzone-ui/react?label=Star&style=social)
+[![GitHub Repo stars](https://img.shields.io/github/stars/dropzone-ui/react?label=Star&style=social)](https://github.com/dropzone-ui/react)
 
 ## Important
 
