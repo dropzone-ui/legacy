@@ -1,15 +1,13 @@
-:rocket: [Spanish](./README_ES.md)
+:rocket: [Spanish](./README_ES.md)  
 
 <p align="center">
 <img align="center" with="128px" height="128px" src="https://user-images.githubusercontent.com/43678736/132112022-0ca409ae-cca2-43c8-be89-110376260a3f.png" alt="dropone-ui-logo">
 
-<h1 align="center">
+<h1 align="center">dropzone-ui  </h1> 
 
 dropzone-ui `has mega-digievolved to`
 
-[@dropzone-ui/react](https://www.npmjs.com/package/@dropzone-ui/react) :milky_way:
-
-</h1>
+[@dropzone-ui/react](https://www.npmjs.com/package/@dropzone-ui/react)  :milky_way:
 
 </p>
 
@@ -65,7 +63,6 @@ On `Drag`, `Drop`, `Upload` and ful screen preview. (also changing view mode fro
 </p>
 
 Did you like the project? Please, don't forget to give us a :star: star on :octocat: [github](https://github.com/dropzone-ui/dropzone-ui) :D 
-
 
 <p align="center">
 <img align="center"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5wxk14o6zhloz2z3zypy.png" alt="dropone-ui-logo">
