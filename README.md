@@ -22,13 +22,12 @@ dropzone-ui `has mega-digievolved to`
 [![Known Vulnerabilities](https://snyk.io/test/github/dropzone-ui/react/badge.svg)](https://snyk.io/test/github/dropzone-ui/react)
 [![Package Quality](https://packagequality.com/shield/dropzone-ui.svg)](https://packagequality.com/#?package=dropzone-ui)
 [![install size](https://packagephobia.com/badge?p=@dropzone-ui/react)](https://packagephobia.com/result?p=@dropzone-ui/react)
-[![dependencies Status](https://status.david-dm.org/gh/dropzone-ui/react.svg)](https://david-dm.org/dropzone-ui/react)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/dropzone-ui/react.svg)](http://isitmaintained.com/project/dropzone-ui/react)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
+![GitHub Repo stars](https://img.shields.io/github/stars/dropzone-ui/react?label=Star%20the%20repo&style=social)
 ## Important
 
-This package wraps all components of [@dropzone-ui/react](https://www.npmjs.com/package/@dropzone-ui/react). In a nutshell, installing this package you are installing @dropzone-ui/react as well through dependency tree.
+This package wraps all components of [@dropzone-ui/react](https://www.npmjs.com/package/@dropzone-ui/react). So, installing this package you are also installing [@dropzone-ui/react](https://www.npmjs.com/package/@dropzone-ui/react) as well through dependency tree.
 
 ## QuickStart
 
@@ -66,7 +65,7 @@ On `Drag`, `Drop`, `Upload` and ful screen preview. (also changing view mode fro
 </p>
 
 Did you like the project? Please, don't forget to give us a :star: star on :octocat: [github](https://github.com/dropzone-ui/dropzone-ui) :D 
- ![GitHub Repo stars](https://img.shields.io/github/stars/dropzone-ui/react?label=Star&style=social)
+
 
 <p align="center">
 <img align="center"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5wxk14o6zhloz2z3zypy.png" alt="dropone-ui-logo">
