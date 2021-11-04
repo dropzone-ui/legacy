@@ -22,7 +22,7 @@ dropzone-ui `has mega-digievolved to`
 [![install size](https://packagephobia.com/badge?p=@dropzone-ui/react)](https://packagephobia.com/result?p=@dropzone-ui/react)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/dropzone-ui/react.svg)](http://isitmaintained.com/project/dropzone-ui/react)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-![GitHub Repo stars](https://img.shields.io/github/stars/dropzone-ui/react?label=Star%20the%20repo&style=social)
+[![GitHub Repo stars](https://img.shields.io/github/stars/dropzone-ui/react?label=Star%20me%20please%20:D&style=social)](https://github.com/dropzone-ui/react)
 ## Important
 
 This package wraps all components of [@dropzone-ui/react](https://www.npmjs.com/package/@dropzone-ui/react). So, installing this package you are also installing [@dropzone-ui/react](https://www.npmjs.com/package/@dropzone-ui/react) as well through dependency tree.

@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/dropzone-ui/legacy#readme",
   "dependencies": {
-    "@dropzone-ui/react": "^5.2.8"
+    "@dropzone-ui/react": "^5.3.0"
   },
   "peerDependencies": {
     "axios": "^0.21.4",
