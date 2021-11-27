@@ -37,6 +37,12 @@ This package wraps all components of [@dropzone-ui/react](https://www.npmjs.com/
 
 - :computer: [\<Server side implementation/>](https://www.npmjs.com/package/@dropzone-ui/react#uploading)
 
+- [Code generator](#code-generator)
+
+## Code generator
+
+Want to generate the code that fits your needs? Just interact with the code generator [here](http://dropzone-ui.com/).
+
 ## Installation
 
 dropzone-ui is available as an [npm package](https://www.npmjs.com/package/dropzone-ui).
