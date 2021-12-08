@@ -1,6 +1,6 @@
 {
   "name": "dropzone-ui",
-  "version": "6.3.5",
+  "version": "6.3.6",
   "description": "React Library Component for drag’n’drop files. Easy to use. Material design style. Multilanguage support. Upload to server support.",
   "main": "./build/index.js",
   "module": "./build/index.es.js",
@@ -35,7 +35,7 @@
   },
   "homepage": "http://www.dropzone-ui.com",
   "dependencies": {
-    "@dropzone-ui/react": "^6.3.5"
+    "@dropzone-ui/react": "^6.3.6"
   },
   "peerDependencies": {
     "axios": "^0.24.0",
@@ -60,8 +60,8 @@
     "@types/testing-library__react": "^10.2.0",
     "@typescript-eslint/eslint-plugin": "^5.5.0",
     "@typescript-eslint/parser": "^5.5.0",
-    "ansi-regex": "^6.0.1",
     "ansi-html": "^0.0.7",
+    "ansi-regex": "^6.0.1",
     "babel-loader": "^8.2.3",
     "coveralls": "^3.1.0",
     "css-loader": "^6.5.1",
