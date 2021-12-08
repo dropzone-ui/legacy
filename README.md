@@ -5,7 +5,7 @@
 
 <h1 align="center">dropzone-ui  </h1> 
 
-dropzone-ui `has mega-digievolved to` [@dropzone-ui/react](https://www.npmjs.com/package/@dropzone-ui/react)  :milky_way:
+`dropzone-ui` has mega-digievolved to [@dropzone-ui/react](https://www.npmjs.com/package/@dropzone-ui/react)  :milky_way:
 
 </p>
 
@@ -25,6 +25,15 @@ dropzone-ui `has mega-digievolved to` [@dropzone-ui/react](https://www.npmjs.com
 
 This package wraps all components of [@dropzone-ui/react](https://www.npmjs.com/package/@dropzone-ui/react). So, installing this package you are also installing [@dropzone-ui/react](https://www.npmjs.com/package/@dropzone-ui/react) as well through dependency tree.
 
+## Key Features
+
+- :white_check_mark: File validation: Validate files before uploading.
+- :art: File Image previews: See a thumbnail preview
+- :framed_picture: Full screen image previews: Add more interacion with a full screen preview of images
+- :eyes: status visualization: validation and upload status is shown on a [Tooltip](https://codesandbox.io/s/dropzone-ui-fileitem-resultontooltip-h6hu7) or on [Info Layer](https://codesandbox.io/s/dropzone-ui-fileitem-resultontooltip-h6hu7).
+- :airplane: File upload: Upload valid files to a server
+- :performing_arts: Out of the box design and style.
+- :cake: Easy to use. Probably, this is the killer feature you are looking for in a package.
 ## QuickStart
 
 - :books: [\<Full Documentation\>](https://www.npmjs.com/package/@dropzone-ui/react#dropzone-ui-react-components-api)
